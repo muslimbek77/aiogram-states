@@ -1,0 +1,6 @@
+#Sifat o'quv markazi botiga hush kelibsiz
+/reg
+#Siz bizning kurslarimizga yozilish uchun ismingizni kiriting
+#Familyangizni kiriting
+#telefon raqam
+#qaysi kursda o'qimoqchisiz
