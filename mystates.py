@@ -6,4 +6,4 @@ class Register(StatesGroup):
     phone_number = State()
     course = State()
     photo = State()
-    # 4ta
+    # 5ta
